@@ -8,7 +8,7 @@
 - 🤝 **Looking to collaborate on:** _Different projects to enhance my coding abilities_
 - 👨‍💻 **All of my projects are available at:** [github.com/Blasty11](https://github.com/Blasty11)
 - 💬 **Ask me about:** _C++, Node.js and many more_
-- 📫 **How to reach me:** [blasty11@gmail.com](mailto:ahmadraza792003@@gmail.com)
+- 📫 **How to reach me:** [Ahmad@gmail.com](mailto:ahmadraza792003@@gmail.com)
 - ⚡ **Fun fact:** _As a student software engineer, I'm not just coding my way through algorithms; I'm also mastering the art of multitasking. Balancing deadlines, projects, and a social life is my code to crack outside the IDE!_ 🧠💻
 
 ---
