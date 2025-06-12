@@ -2,27 +2,22 @@
 
 > _A passionate frontend developer from Pakistan_
 
-![image1](image1)
 
----
-
-- 🛠️ **Currently working on:** [Chinioti Wooden Art](https://github.com/umairaltaf982/Chinioti-Wooden-Art-WebDev.git)
-- 🌱 **Currently learning:** JS, C#
+- 🛠️ **Currently working on:** [SkillSwap Project]()
+- 🌱 **Currently learning:** Node.js, React.js, Python
 - 🤝 **Looking to collaborate on:** _Different projects to enhance my coding abilities_
 - 👨‍💻 **All of my projects are available at:** [github.com/Blasty11](https://github.com/Blasty11)
-- 💬 **Ask me about:** _C++, SQL, Haskell and many more_
-- 📫 **How to reach me:** [blasty11@gmail.com](mailto:blasty11@gmail.com)
+- 💬 **Ask me about:** _C++, Node.js and many more_
+- 📫 **How to reach me:** [blasty11@gmail.com](mailto:ahmadraza792003@@gmail.com)
 - ⚡ **Fun fact:** _As a student software engineer, I'm not just coding my way through algorithms; I'm also mastering the art of multitasking. Balancing deadlines, projects, and a social life is my code to crack outside the IDE!_ 🧠💻
 
 ---
 
 ## 🔗 Connect with me
 
-[![Twitter](https://img.shields.io/badge/-Twitter-1da1f2?logo=twitter&logoColor=white)](https://twitter.com/)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077b5?logo=linkedin&logoColor=white)](https://linkedin.com/)
 [![Facebook](https://img.shields.io/badge/-Facebook-1877f2?logo=facebook&logoColor=white)](https://facebook.com/)
 [![Instagram](https://img.shields.io/badge/-Instagram-e4405f?logo=instagram&logoColor=white)](https://instagram.com/)
-[![YouTube](https://img.shields.io/badge/-YouTube-ff0000?logo=youtube&logoColor=white)](https://youtube.com/)
 
 ---
 
